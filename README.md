@@ -1,10 +1,6 @@
   
 ### Olá, eu sou o Brian 👋
 
-
-- 🔭 Atualmente trabalho com Front-End...
-- 🌱 Estou aprendendo JavaScript...
-
 <div>
   <a href="https://github.com/brianaxels2">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brianaxels2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
